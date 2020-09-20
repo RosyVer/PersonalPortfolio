@@ -24,7 +24,7 @@ img{
 
 header h1{
 	color:white;
-	padding-top:20px;
+	padding-top:10px;
 	margin-bottom: 20px;
 	text-align: center;
 	font-size: 80px;
@@ -32,8 +32,10 @@ header h1{
 }
 header h2{
 	color:white;
-	font-family: 'Fjalla One',sans-serif;
+	font-family: 'Hind',sans-serif;
+	font-size: 30px;
 	text-align: center;
+	padding-top: 10px;
 }
 header p{
 	font-family: 'Fjalla One',sans-serif;
@@ -50,6 +52,9 @@ main{
 	color: white;
 	font-size: 20px;
 	font-family: 'Hind',sans-serif;
+}
+main img{
+	max-width: 100%;
 }
 footer{
 	margin:0 auto;
