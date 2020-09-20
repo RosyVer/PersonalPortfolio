@@ -30,6 +30,11 @@ header h1{
 	font-size: 80px;
 	font-family: 'Fjalla One',sans-serif;
 }
+header h2{
+	color:white;
+	font-family: 'Fjalla One',sans-serif;
+	text-align: center;
+}
 header p{
 	font-family: 'Fjalla One',sans-serif;
 	font-size: 20px;
