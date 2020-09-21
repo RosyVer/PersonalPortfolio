@@ -49,7 +49,7 @@ header p{
 	text-align: center;
 	color: #CCCCCC;
 }
-main a:hover{
+ a:hover{
 	color:black;
 }
 
@@ -61,6 +61,7 @@ main{
 	font-family: 'Hind',sans-serif;
 }
 main p{
+	color:white;
 	text-align: center;
 	padding:30px 50px;
 }
